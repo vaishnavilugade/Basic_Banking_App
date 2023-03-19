@@ -9,7 +9,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
-
 public class listActivity extends AppCompatActivity {
     ListView listView;
     String[] name={"Rohit","Snehal","Pankaj","Pranav","Sagar","Shivani"};
