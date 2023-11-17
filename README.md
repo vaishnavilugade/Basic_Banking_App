@@ -44,6 +44,12 @@ __1. Clone the repository :__
 ```
 git clone https://github.com/vaishnavilugade/Bank-App.git
 ```
+<br>
+<p align="center">
+  <strong>🌟 If you find this project helpful, please star it! 🌟</strong>
+</p>
+
+<br>
 
 <div align="center">
   <a href="https://twitter.com/vaishnavilugade">
